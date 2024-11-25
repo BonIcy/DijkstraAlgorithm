@@ -1,6 +1,6 @@
 # Proyecto de Rutas con Dijkstra
 
-Este proyecto implementa un algoritmo para encontrar el camino más corto en un grafo ponderado no dirigido utilizando el algoritmo de Dijkstra, incluyendo una función adicional en donde se puede hacer la simulacion de trancones o accidentes pudiendo cambiar el tiempo de recorrido en dicha ruta.
+Este proyecto implementa un algoritmo para encontrar el camino más corto en un grafo ponderado dirigido utilizando el algoritmo de Dijkstra, incluyendo una función adicional en donde se puede hacer la simulacion de trancones o accidentes pudiendo cambiar el tiempo de recorrido en dicha ruta.
 <center>
 
 ## El grafo se encuentra en GraphOnline, el link es el siguiente:
